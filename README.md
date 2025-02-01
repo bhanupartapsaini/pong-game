@@ -13,7 +13,7 @@ This is a basic 2D Pong game where two players (or one player and an AI opponent
 **Movement:**<br>
 
 <li><b>Player 1:</b> Moves up or down using the "W" and "S" keys.</li>
-<li><b>Player 2 (AI):</b> The AI attempts to follow the ball’s Y-position and adjusts its movement accordingly.</li>
+<li><b>Player 2 (AI):</b> The AI attempts to follow the ball’s Y-position and adjusts its movement accordingly.</li><br><br>
 
 https://ponggames.netlify.app/
 
